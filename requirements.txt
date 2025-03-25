@@ -6,6 +6,7 @@ matplotlib
 seaborn
 plotly
 shap
+kaggle
 folium
 pgeocode
 jupyterlab
